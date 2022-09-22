@@ -12,8 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="40" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  
-  <img align="right" alt="Gabi-pic" src="https://i.picasion.com/pic92/aeae21a431ec61fdaec62620961457f3.gif" />
+  <a href="https://i.picasion.com/pic92/aeae21a431ec61fdaec62620961457f3.gif"><img align="right" src="https://i.picasion.com/pic92/aeae21a431ec61fdaec62620961457f3.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a>
   
   ##
  
